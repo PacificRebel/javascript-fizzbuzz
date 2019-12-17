@@ -2,4 +2,4 @@
 
 ## - installed Jasmine
 ## - set up src and spec files
-## - set up Git repo
+## - set up GitHub repo
