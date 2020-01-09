@@ -16,4 +16,10 @@ describe('FizzBuzz', function() {
       expect(fizzBuzz.play(5)).toEqual('Buzz');
     })
   })
+
+  describe('muptiples of 15', function() {
+    it('prints FizzBuzz for 15', function() {
+      expect(fizzBuzz.play(15)).toEqual('FizzBuzz');
+    })
+  })
 })
